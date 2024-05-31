@@ -13,11 +13,12 @@ name_list = [
 ]
 
 # Define the list with the number of seats, set to 5 for all 25 elements
-seats_list = [5, 5, 5, 5, 5,
+'''seats_list = [5, 5, 5, 5, 5,
               5, 5, 5, 5, 5,
               5, 5, 5, 5, 5,
               5, 5, 5, 5, 5,
-              5, 5, 5, 5, 5]
+              5, 5, 5, 5, 5]'''
+seats_list = [2] * 25
 
 # Guidelines
 # 1. The column containing CGPA must be named "CGPA" and nothing else
